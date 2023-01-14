@@ -1,0 +1,22 @@
+{
+  "name": "@vishipayyallore/sayhello",
+  "version": "1.0.2",
+  "description": "This is Simple npm package for testing",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learn-github-packages-in-2023/hello-world-npm-packages.git"
+  },
+  "author": "Viswanatha Swamy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/learn-github-packages-in-2023/hello-world-npm-packages/issues"
+  },
+  "homepage": "https://github.com/learn-github-packages-in-2023/hello-world-npm-packages#readme"
+}
