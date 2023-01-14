@@ -1,6 +1,6 @@
 {
   "name": "@vishipayyallore/sayhello",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This is Simple npm package for testing",
   "main": "index.js",
   "publishConfig": {
