@@ -4,4 +4,4 @@ const greetUser = function (name) {
     return message;
 }
 
-module.exports = greetUser;
+module.exports = { greetUser };
