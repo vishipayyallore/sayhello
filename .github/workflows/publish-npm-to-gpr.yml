@@ -26,9 +26,6 @@ jobs:
           registry-url: https://npm.pkg.github.com/
       - run: npm install
         working-directory: ./src
-      # - run: |
-      #     echo @vishipayyallore:https://npm.pkg.github.com/ > ./sayhello/.npmrc
-      #     echo '//npm.pkg.github.com/:_authToken=${NPM_TOKEN}' >> ./sayhello/.npmrc
       - run: npm publish 
         working-directory: ./src
         env:
